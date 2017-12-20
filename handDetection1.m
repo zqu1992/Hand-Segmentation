@@ -1,3 +1,5 @@
+% Create on Dec, 2016
+% @author: zhongnan qu
 addpath('Mex');
 clear all
 
