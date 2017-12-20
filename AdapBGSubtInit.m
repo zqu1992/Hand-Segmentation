@@ -1,3 +1,5 @@
+% Create on Apr, 2017
+% @author: zhongnan qu
 function [meanBG, covBG] = AdapBGSubtInit( tBGInit )
 %   This function is used for initialization of adaptive background
 %   subtraction.
