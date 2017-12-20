@@ -1,3 +1,5 @@
+% Create on Apr, 2017
+% @author: zhongnan qu
 % add mex file into path
 addpath('Mex');
 % close all windows
