@@ -1,4 +1,5 @@
-%%
+% Create on Apr, 2017
+% @author: zhongnan qu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%--- GENERAL PARAMETERS DIFINITION ---%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
