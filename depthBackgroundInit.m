@@ -1,3 +1,5 @@
+% Create on Dec, 2016
+% @author: zhongnan qu
 function [ depthMean, depthCov ] = depthBackgroundInit( tDepth )
 %   This function is used for the collection of stationary background 
 %   depth value, which is the initialization of depth background 
