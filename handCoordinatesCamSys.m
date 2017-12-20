@@ -1,3 +1,5 @@
+% Create on Dec, 2016
+% @author: zhongnan qu
 % load the depth data of hand from AdaptiveHandDetection.m
 load('handDepth.mat')
 % remove the coordinates with -Inf or Inf value (error when transfer)
