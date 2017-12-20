@@ -1,3 +1,5 @@
+% Create on Dec, 2016
+% @author: zhongnan qu
 function [ piGmm, meanGmm, covGmm ] = emGmmKmeans( data, K )
 %   This function is used to estimate the K-component GMM parameters of 
 %   training data based on the EM algorithm. The first step of estimation  
