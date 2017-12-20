@@ -1,3 +1,7 @@
+Original version from 
+Terven Juan, Cordova-Esparza Diana,  Kin2. A Kinect 2 Toolbox for MATLAB, 
+Science of Computer Programming, 2016, http://dx.doi.org/10.1016/j.scico.2016.05.009
+
 C++ wrapper functions for the Microsoft Kinect 2, using Microsoft SDK.
 
 Requirements:
