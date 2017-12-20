@@ -1,3 +1,5 @@
+% Create on Dec, 2016
+% @author: zhongnan qu
 function [ dilatForeground ] = dilatation( foreground, structuralElement, row, col)
 %   This function is used to calculate the Minkowski-addition (dilatation).
 %   Input: foreground coordinates (size: dim*numb) need to be extended, 
