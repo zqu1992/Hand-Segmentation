@@ -1,4 +1,4 @@
-% Create on Apr, 2017
+% Create on Dec, 2016
 % @author: zhongnan qu
 function [meanBG, covBG] = AdapBGSubtInit( tBGInit )
 %   This function is used for initialization of adaptive background
