@@ -38,4 +38,5 @@ Z. Qu, "Adaptive robust moving hands recognition under complex lighting conditio
 ### Authors
 Zhongnan Qu
 
-Licensing: gpl 3.0
+### Licensing 
+gpl 3.0
