@@ -11,6 +11,10 @@ The project consists of two major parts,
 
 Both parts are combined together with connected neighbor component and an adaptive look up table to realize real-time segment the moving hand pixels from background.
 
+# Citation
+
+Z. Qu, "Adaptive robust moving hands recognition under complex lighting condition," 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, 2017, pp. 560-565, doi: 10.1109/ICAR.2017.8023666.
+
 Authors: Zhongnan Qu
 
 Licensing: gpl 3.0
