@@ -16,13 +16,10 @@ The project consists of two major parts,
 Both parts are combined together with connected neighbor component and an adaptive look up table to realize real-time segment the moving hand pixels from background.
 
 ### Dependencies
-Kinect2 SDK. http://www.microsoft.com/en-us/download/details.aspx?id=44561
 
-Visual Studio 2012 or newer compiler
-
-MATLAB 2013a or newer (for Visual Studio 2012 support)
-
-MATLAB 2015b or newer for pointCloudDemo2, which uses MATLAB's built-in pointCloud object
++ Kinect2 SDK. http://www.microsoft.com/en-us/download/details.aspx?id=44561
++ Visual Studio 2012 or newer compiler
++ MATLAB 2013a or newer (for Visual Studio 2012 support)
 
 ### Citation
 If you use the code in your research, please cite as,
