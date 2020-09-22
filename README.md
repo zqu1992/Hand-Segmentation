@@ -26,7 +26,7 @@ If you use the code in your research, please cite as,
 
 Z. Qu, "Adaptive robust moving hands recognition under complex lighting condition," 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, 2017, pp. 560-565, doi: 10.1109/ICAR.2017.8023666.
 
-    @inproceedings{bib:ICAR17:Qu,
+    @inproceedings{8023666,
         author={Z. {Qu}},
         booktitle={2017 18th International Conference on Advanced Robotics (ICAR)}, 
         title={Adaptive robust moving hands recognition under complex lighting condition}, 
